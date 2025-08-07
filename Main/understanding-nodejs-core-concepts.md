@@ -1,6 +1,8 @@
 # 📘 Understanding Node.js Core Concepts — A Beginner’s Guide
 
-**By Suraj Regmi**
+**Suraj Regmi**
+
+🗓️ August 7, 2025 • 🕒 10 min read
 
 ## 🌱 Introduction
 
@@ -162,17 +164,6 @@ console.log("Heavy task done");
 ```
 
 ✅ This keeps the main thread responsive.
-
-## ⚡ Summary Table
-
-| Concept       | Description                      |
-| ------------- | -------------------------------- |
-| Thread        | Single unit of CPU execution     |
-| Event Loop    | Handles async tasks efficiently  |
-| Callback      | Function called after async task |
-| Promise       | Modern callback alternative      |
-| async/await   | Clean syntax over Promises       |
-| Worker Thread | Offloads CPU-heavy tasks         |
 
 ## ✅ Final Thoughts
 
