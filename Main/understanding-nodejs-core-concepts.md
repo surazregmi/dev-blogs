@@ -183,15 +183,6 @@ It uses a single thread + event loop + background workers to create high-perform
 - For I/O, it’s unbeatable.
 - For CPU-heavy tasks, offload work using worker threads, queues, or microservices.
 
-## 🛠️ Coming Soon:
-
-In my next post, we’ll build a real CLI app and apply:
-
-- Callbacks
-- Promises
-- Async/Await
-- File System Module
-
 Thanks for reading!
 
 **Happy Coding,**  
