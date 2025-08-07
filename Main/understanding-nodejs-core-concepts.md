@@ -1,4 +1,4 @@
-# 📘 Understanding Node.js Core Concepts — A Beginner’s Guide
+# 📘 Understanding javascript Core Concepts Before to Start Node.js
 
 **Suraj Regmi**
 
