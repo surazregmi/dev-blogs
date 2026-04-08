@@ -1,5 +1,9 @@
 # 🧠 Networking Fundamentals You MUST Know Before Learning AWS
 
+**Suraj Regmi**
+
+🗓️ April 4, 2026 • 🕒 20 min read
+
 > **Who this is for:** Developers who know how to write code but feel lost when cloud concepts like VPC, Subnets, and Security Groups come up. This guide builds your mental model from scratch — no assumptions, no shortcuts.
 
 ---
